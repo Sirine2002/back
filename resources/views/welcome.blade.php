@@ -2,7 +2,7 @@
 <html>
 <head>
 
-<link href="{{ secure_asset('frontend/assets/index-CZpCW9iA.css') }}" rel="stylesheet">
+<link href="{{ secure_asset('frontend/assets/index-BrOqpnDh.css') }}" rel="stylesheet">
 </head>
    
     <body>
