@@ -3,6 +3,8 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta http-equiv="Content-Security-Policy" content="upgrade-insecure requests"> 
+        <link href="{{ secure_asset('frontend/assets/index-BrOqpnDh.css') }}" rel="stylesheet"> 
 
         <title>Laravel</title>
 
@@ -168,5 +170,7 @@
                 </div>
             </div>
         </div>
+        <div id="root"></div>
+        <script src="{{ secure_asset('frontend/assets/index-CtaMzOW_.js')  }}"></script> 
     </body>
 </html>
