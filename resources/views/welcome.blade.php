@@ -1,11 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Mon application Laravel</title>
 
-<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
-<link href="{{ secure_asset('frontend/assets/index-CZpCW9iA.css') }}"
-rel="stylesheet">
+<link href="{{ secure_asset('frontend/assets/index-CZpCW9iA.css') }}" rel="stylesheet">
 </head>
    
     <body>
